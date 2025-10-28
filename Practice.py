@@ -11,7 +11,7 @@ bootstrap = Bootstrap5(app)
 # route decorator binds a function to a URL
 @app.route('/')
 def hello():
-  return '<b>Hello world from Flask!<b> <p>Genevieve M. : afaik</p>'
+  return '<b>Hello world from Flask!<b> <p>Angel V. : IDK </p>'
 
 # --app Practice --debug run 
 
